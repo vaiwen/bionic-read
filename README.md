@@ -1,6 +1,6 @@
 # What Is Bionic Read ?
 
-Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points.
+Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points.  
 Related website [Bionic Read](https://bionic-reading.com/)
 
 ## How to use

@@ -8,4 +8,4 @@ Related website [Bionic Read] (https://bionic-reading.com/)
 - Pull the repository on your local or visit [bionic-read live](https://bionic-read.vercel.app/).
 - Write any text in the left textarea.
 - Click with mouse anywhere except the textarea you write.
-  (Because textarea code working with "change") `normalText.addEventListener('change', (e) =>`
+  (Because, textarea is working with "change" code) `normalText.addEventListener('change', (e) =>`
